@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera Intent</string>
+    <string name="title_activity_image_show">ImageShow</string>
+</resources>
